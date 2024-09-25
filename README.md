@@ -56,11 +56,4 @@ Meu nome é **Ennzho Lanza** e estou atualmente estudando na **Alura**, focando 
 
 ---
 
-### 🔍 Interesses em Tecnologia
-- **Frameworks:** Estou animado para aprender sobre React e Node.js.
-- **Desenvolvimento Pessoal:** Acredito no aprendizado contínuo e estou sempre em busca de novos cursos e tutoriais.
-- **Comunidade:** Gosto de participar de meetups e conferências para trocar ideias e aprender com outros desenvolvedores.
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ennzho-lanza&color=blue)
