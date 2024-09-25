@@ -36,7 +36,8 @@ Meu nome é **Ennzho Lanza** e estou atualmente estudando na **Alura**, focando 
 ---
 
 ### 📂 Projetos em Destaque
-- [Jogo do Pong](link_do_projeto): Jogo do pongo, você controla uma raquete contra outra, com o objetivo de rebater uma bolinha para que acerte a parede inimiga. Realizado no p5.js com auxílio dos cursos da plataforma Alura.
+- [Jogo do Pong](https://editor.p5js.org/amaral.ennzho/full/jnhLkM3ae): Jogo do pong, você controla uma raquete contra outra, com o objetivo de rebater uma bolinha para que acerte a parede inimiga. Realizado no p5.js com auxílio dos cursos da plataforma Alura.
+
 
 ---
 
