@@ -51,7 +51,7 @@ Meu nome é **Ennzho Lanza** e estou atualmente estudando na **Alura**, focando 
 ---
 
 ### ⭐ Conquistas
-🏆 Finalista em projetos acadêmicos na Alura  
+🏆 Conclusão dos cursos da plataforma Alura
 🔧 Projetos em JavaScript publicados neste repositório
 
 ---
