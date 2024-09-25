@@ -37,12 +37,13 @@ Meu nome é **Ennzho Lanza** e estou atualmente estudando na **Alura**, focando 
 
 ### 📂 Projetos em Destaque
 - [Nome do Projeto 1](link_do_projeto): Breve descrição do que o projeto faz e tecnologias usadas.
-- [Nome do Projeto 2](link_do_projeto): Breve descrição do que o projeto faz e tecnologias usadas.
+- [Nome do Projeto 2](link_do_projeto): Breve descrição do queo projeto faz e tecnologias usadas.
 
 ---
 
 ### 🌐 Contato
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amaral.ennzho@escola.pr.gov.br)](mailto:amaral.ennzho@escola.pr.gov.br)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/2/?fs=1&to=amaral.ennzho@escola.pr.gov.br&tf=cm)](https://mail.google.com/mail/u/2/?fs=1&to=amaral.ennzho@escola.pr.gov.br&tf=cm)
+
 
 ---
 
