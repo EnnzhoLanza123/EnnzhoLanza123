@@ -42,7 +42,10 @@ Meu nome é **Ennzho Lanza** e estou atualmente estudando na **Alura**, focando 
 ---
 
 ### 🌐 Contato
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/2/?fs=1&to=amaral.ennzho@escola.pr.gov.br&tf=cm)](https://mail.google.com/mail/u/2/?fs=1&to=amaral.ennzho@escola.pr.gov.br&tf=cm)
+<a href="https://mail.google.com/mail/u/2/?fs=1&to=amaral.ennzho@escola.pr.gov.br&tf=cm" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
+</a>
+
 
 
 ---
