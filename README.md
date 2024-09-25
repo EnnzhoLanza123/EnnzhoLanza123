@@ -22,21 +22,22 @@ Meu nome é **Ennzho Lanza** e estou atualmente estudando na **Alura**, focando 
 
 ### 🛠️ Habilidades
 
-- **Linguagens:** JavaScript, HTML
-- **Ferramentas:** GitHub, VSCode, P5.js
+- **Linguagens:** JavaScript, HTML, CSS
+- **Ferramentas:** Git, GitHub, VSCode, Figma
 - **Outros:** Conceitos de Design UI/UX
 
 ---
 
 ### 🎯 Status Atual
 - 💻 **Estudando:** Cursos de JavaScript e Desenvolvimento Web na Alura
-- 🚀 **Objetivos:** Consolidar conhecimentos em JavaScript e avançar minha experiência
-- 🏅 **Projetos em desenvolvimento:** Jogo do Pong, organizado neste repositório
+- 🚀 **Objetivos:** Consolidar conhecimentos em JavaScript e avançar para frameworks como React e Node.js
+- 🏅 **Projetos em desenvolvimento:** Aplicações web interativas, organizadas neste repositório
 
 ---
 
 ### 📂 Projetos em Destaque
-- [Jogo do Pong]([link_do_projeto](https://editor.p5js.org/amaral.ennzho/full/jnhLkM3ae)): O projeto consiste basicamente no bom e velho jogo do Pong, onde você controla uma raquete contra outra, com objetivo de fazer a bolinha colidir com a parede. Jogo feito em P5.js com auxilio dos cursos da plataforma Alura.
+- [Nome do Projeto 1](link_do_projeto): Breve descrição do que o projeto faz e tecnologias usadas.
+- [Nome do Projeto 2](link_do_projeto): Breve descrição do que o projeto faz e tecnologias usadas.
 
 ---
 
