@@ -23,14 +23,14 @@ Meu nome é **Ennzho Lanza** e estou atualmente estudando na **Alura**, focando 
 ### 🛠️ Habilidades
 
 - **Linguagens:** JavaScript, HTML, CSS
-- **Ferramentas:** Git, GitHub, VSCode, Figma
+- **Ferramentas:** GitHub, VSCode, p5.js
 - **Outros:** Conceitos de Design UI/UX
 
 ---
 
 ### 🎯 Status Atual
 - 💻 **Estudando:** Cursos de JavaScript e Desenvolvimento Web na Alura
-- 🚀 **Objetivos:** Consolidar conhecimentos em JavaScript e avançar para frameworks como React e Node.js
+- 🚀 **Objetivos:** Consolidar conhecimentos em JavaScript
 - 🏅 **Projetos em desenvolvimento:** Aplicações web interativas, organizadas neste repositório
 
 ---
